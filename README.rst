@@ -33,7 +33,7 @@ Once you get past the basic formatting syntax of RST (e.g. **bold**, *italic*,
 you'll quickly come across the more powerful syntax elements, directives_
 and roles_. These are a way of defining a sort of custom formatting 'function';
 a role is used for formatting or hyperlinking a short span of text, while a
-role is used for formatting a whole block of text, and may have multiple
+directive is used for formatting a whole block of text, and may have multiple
 `options <directives_>`_.
 
 Sphinx adds a standard framework of useful extra roles and directives
