@@ -91,6 +91,7 @@ Sphinx links
 - Sphinx-Argparse, for documenting argparse_ driven command-line interfaces: https://sphinx-argparse.readthedocs.io/
 - NBSphinx, for building documentation from Jupyter Notebooks: https://nbsphinx.readthedocs.io/
 - ReadTheDocs, for auto-building and online hosting of your docs: https://docs.readthedocs.io/
+- Fully-fledged example (of mine) including notebooks and more: http://voevent-parse.readthedocs.io/
 
 .. _argparse: https://docs.python.org/3/library/argparse.html
 .. _autodoc: http://www.sphinx-doc.org/en/stable/ext/autodoc.html
